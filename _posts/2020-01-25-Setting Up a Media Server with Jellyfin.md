@@ -6,7 +6,7 @@ toc: false
 comments: true 
 hide: false 
 categories: [Jellyfin, GPU, Ubuntu, WiFi]
-image: /images/jellyfin-nvidia.png
+image: ../images/jellyfin-nvidia.png
 ---
 I have an Ubuntu desktop machine with an old Nvidia card. It has OKish specs, but it is a bit noisy for my liking. In
 short, I've made it into a publicly accessible Jellyfin media server with Traefik+Wireguard and moved it to the corner
