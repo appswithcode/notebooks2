@@ -41,7 +41,11 @@ I think learned a few things after reading the book.
 
 It officially introduced me to the concept of [Zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) (slipbox, backlinks).
 
-Here are core steps:
+Main philosophy:
+- Rather taking a top to down approach to writing (think everything through at the start), start from taking random notes, 
+  then when think you are ready you can connect the dots and complete the writing (bottom to top).
+
+Actionable Steps:
 1. do your research
 2. take notes into slipbox whenever you find something interesting
 3. reorganize your notes from slipbox with backlinks into different category or subtopics
