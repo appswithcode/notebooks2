@@ -5,6 +5,7 @@ layout: post
 toc: false
 comments: true
 hide: false
+image: /images/obsidian.png
 categories: [Notes]
 ---
 
@@ -46,7 +47,7 @@ Here are core steps:
 4. construct the drafts from previously organized notes
 
 
-![](images/obsidian.jpg "My Obsidian Notes")
+![](/images/obsidian.png "My Obsidian Notes")
 
 ### Tools
 I personally use Obsidian for note taking.
