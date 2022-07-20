@@ -51,9 +51,9 @@ Here is how I interlink different notes in Obsidian.
 
 ### Zettelkasten Apps
 There are a lot of tools that can implement Zettelkasten notes. I personally use Obsidian for note taking, cause I prefer saving notes locally. 
-- https://zettelkasten.de/posts/overview/
-- https://roamresearch.com/
-- https://obsidian.md/
+- [Archive](https://zettelkasten.de/posts/overview/)
+- [Roam Research](https://roamresearch.com/)
+- [Obsidian](https://obsidian.md/)
 
 Obsidian also offers a lot of other features like:
 - VIM mode support
