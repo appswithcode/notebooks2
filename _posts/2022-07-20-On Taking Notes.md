@@ -46,7 +46,7 @@ Here are core steps:
 4. construct the drafts from previously organized notes
 
 
-![]({{site.baseurl}}/images/obsidian.jpg "My Obsidian Notes")
+![](images/obsidian.jpg "My Obsidian Notes")
 
 ### Tools
 I personally use Obsidian for note taking.
