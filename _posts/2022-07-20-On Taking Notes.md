@@ -12,7 +12,7 @@ categories: [Notes]
 
 
 
-> "Making a full sentence is pretty hard for the brain." - Something I learned from one of the great [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab) podcasts.
+> "Making a full sentence is pretty difficult for the brain." - Something I learned from one of the great [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab) podcasts.
 
 I am no trained psychiatrist, but I have an intuition that writing probably makes thinking process easier 
 by taking certain amount of load off from the prefrontal cortex.
@@ -24,7 +24,7 @@ Probably I was or still am a perfectionist, and I always wanted to get things ri
 
 Our brain works by punishing the loss and rewarding the gains. 
 Making mistakes could be detrimental to our survival in the early stages of human existence, 
-and we always negative feedback from supervisors or peers for our mistakes. 
+and we always receive negative feedbacks from supervisors or peers for our mistakes. 
 Thus we avoid errors, mistakes, or failures at any cost.
 
 Fear of failure could be the major hindrance to our productivity, 
@@ -38,7 +38,7 @@ So let's modify the optimization target. "We are bound to miss, but we can try t
 I think learned a few things after reading the book.
 [How to Take Smart Notes (affiliated)](https://amzn.to/3RKNnYO).
 
-It officially introduced me to the concept of Zettlekasten (slipbox, backlinks).
+It officially introduced me to the concept of [Zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) (slipbox, backlinks).
 
 Here are core steps:
 1. do your research
@@ -46,11 +46,11 @@ Here are core steps:
 3. reorganize your notes from slipbox with backlinks into different category or subtopics
 4. construct the drafts from previously organized notes
 
-
+Here is how I interlink different notes in Obsidian. 
 ![](/images/obsidian.png "My Obsidian Notes")
 
-### Tools
-I personally use Obsidian for note taking.
+### ZettelKasten Apps
+There are a lot of tools that can implement Zettelkasten notes. I personally use Obsidian for note taking, cause I prefer saving notes locally. 
 
 - https://zettelkasten.de/posts/overview/
 - https://roamresearch.com/
