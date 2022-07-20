@@ -65,5 +65,5 @@ Obsidian also offers a lot of other features like:
 
 
 I want to write book. I already started taking notes with Zettelkasten method. 
-I will write a post every day.
+I will write a post every day. 
 
