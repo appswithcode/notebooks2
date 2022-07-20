@@ -49,12 +49,21 @@ Here are core steps:
 Here is how I interlink different notes in Obsidian. 
 ![](/images/obsidian.png "My Obsidian Notes")
 
-### ZettelKasten Apps
+### Zettelkasten Apps
 There are a lot of tools that can implement Zettelkasten notes. I personally use Obsidian for note taking, cause I prefer saving notes locally. 
-
 - https://zettelkasten.de/posts/overview/
 - https://roamresearch.com/
 - https://obsidian.md/
 
+Obsidian also offers a lot of other features like:
+- VIM mode support
+- Daily Journal
+- Templates
+- Customizable Shortcuts
+- Customizable UI, 
+- ....
 
+
+I want to write book. I already started taking notes with Zettelkasten method. 
+I will write a post every day.
 
