@@ -37,7 +37,8 @@ So let's modify the optimization target. "We are bound to miss, but we can try t
 ### How to Take Smart Notes
 I think learned a few things after reading the book.
 [How to Take Smart Notes (affiliated)](https://amzn.to/3RKNnYO).
-[![](/images/books/how-to-take-smart-notes.png)](https://amzn.to/3RKNnYO)
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=lsgrep09-20&language=en_US&marketplace=amazon&region=US&placement=B09V5M8FR5&asins=B09V5M8FR5&linkId=963d51bfc01c754764be4493b0bc6f34&show_border=true&link_opens_in_new_window=true"></iframe>
 
 It officially introduced me to the concept of [Zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) (slipbox, backlinks).
 
