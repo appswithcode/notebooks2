@@ -81,6 +81,6 @@ Obsidian also offers a lot of other features like:
 - Customizable UI,
 - ....
 
-I want to write book. I already started taking notes with Zettelkasten method.
+I want to write a book. I already started taking notes with Zettelkasten method.
 I will write a post every day. 
 
