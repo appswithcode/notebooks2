@@ -1,1 +1,1 @@
-Sitemap: https://lsgrep.github.io/sitemap.xml
+Sitemap: https://blog.lsgrep.com/sitemap.xml
