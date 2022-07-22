@@ -6,6 +6,7 @@ toc: false
 comments: true
 hide: false
 categories: [Podcasts, Books]
+image: /images/garbage-in-garbage-out.png
 ---
 
 
