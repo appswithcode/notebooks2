@@ -23,7 +23,7 @@ Professor Andrew Huberman covers a lot of relevant and useful topics. Our body i
 The content Hubermanlab provides can be used as that missing manual. 
 ![](/images/podcasts/hubermanlab.png)
 
-### [The Joe Rogan Experience]
+### [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
 He had some controversial stuff in the past as like the most public figures, so take everything he says with a grain of salt. 
 After hearing lots of MMA and fighting related content, I decided to try out Muay Thai, and it has been the best thing I tried for a long long while.
 I think Muay Thai had tremendous affect on my physical and mental health. 
