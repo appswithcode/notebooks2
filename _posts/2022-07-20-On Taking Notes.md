@@ -6,7 +6,7 @@ toc: false
 comments: true
 hide: false
 image: /images/obsidian.png
-categories: [Notes]
+categories: [Notes, Writing]
 ---
 
 
