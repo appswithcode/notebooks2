@@ -44,7 +44,7 @@ The book is about a lazy ass man's redemption through physical training. It is a
 ### [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 He has really awesome guests. Most of his content is intellectually heavy. 
 
-### [The Daily Stoic]
+### [The Daily Stoic](https://dailystoic.com/)
 I really like the concept of Stoic. Ryan Holiday delivers the message quite well. 
-![](/images/podcasts/stoic.png)
+![](/images/podcasts/dailystoic.png)
 
