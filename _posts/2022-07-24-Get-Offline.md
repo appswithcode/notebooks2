@@ -17,7 +17,8 @@ You have limited attention span (which could be adjusted) & energy. Your computa
 - safety first
 - primal instincts
 - ego
-  Your `default mode` does not go hand in hand with your life goals.
+
+Your `default mode` does not go hand in hand with your life goals.
 
 ### Stoicism
 
