@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
-            "content": "# &quot;My Title&quot; &gt; &quot;Awesome summary&quot; - toc: true - branch: master - badges: true - comments: true - author: Hamel Husain &amp; Jeremy Howard - categories: [fastpages, jupyter] Test test Python .",
-            "url": "https://blog.lsgrep.com/2022/10/29/Curious-case-of-TimeoutHTTPAdapter.html",
-            "relUrl": "/2022/10/29/Curious-case-of-TimeoutHTTPAdapter.html",
+            "title": "My Title",
+            "content": "Test test Python .",
+            "url": "https://blog.lsgrep.com/fastpages/jupyter/2022/10/29/Curious-case-of-TimeoutHTTPAdapter.html",
+            "relUrl": "/fastpages/jupyter/2022/10/29/Curious-case-of-TimeoutHTTPAdapter.html",
             "date": " • Oct 29, 2022"
         }
         
