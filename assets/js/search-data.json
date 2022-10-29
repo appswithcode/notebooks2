@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "My Title",
-            "content": "Test test Python .",
+            "title": "A curious case of `requests.get`",
+            "content": "It is quite easy to write a crawler with Python . import requests requests.get(&quot;https://google.com&quot;) . But in a production environment it is not enough. . After iterating a few times, I came up with this one. . DEFAULT_TIMEOUT = 10 from requests.adapters import HTTPAdapter from urllib3.util.retry import Retry class TimeoutHTTPAdapter(HTTPAdapter): def __init__(self, *args, **kwargs): self.timeout = DEFAULT_TIMEOUT if &quot;timeout&quot; in kwargs: self.timeout = kwargs[&quot;timeout&quot;] del kwargs[&quot;timeout&quot;] super().__init__(*args, **kwargs) def send(self, request, **kwargs): timeout = kwargs.get(&quot;timeout&quot;) if timeout is None: kwargs[&quot;timeout&quot;] = self.timeout return super().send(request, **kwargs) def get_http_session(timeout=DEFAULT_TIMEOUT, retry_count=1): retry_strategy = Retry( total=retry_count, raise_on_redirect=True, status_forcelist=[429, 500, 502, 503, 504], allowed_methods=[&quot;HEAD&quot;, &quot;GET&quot;, &quot;OPTIONS&quot;] ) session = requests.Session() adapter = TimeoutHTTPAdapter(timeout=timeout, max_retries=retry_strategy) session.mount(&quot;https://&quot;, adapter) session.mount(&quot;http://&quot;, adapter) return session . get_http_session(timeout=3, retry_count=3).get(&quot;https://google.com&quot;) . But in reality, internet is full of dead bodies and broken links. .",
             "url": "https://blog.lsgrep.com/fastpages/jupyter/2022/10/29/Curious-case-of-TimeoutHTTPAdapter.html",
             "relUrl": "/fastpages/jupyter/2022/10/29/Curious-case-of-TimeoutHTTPAdapter.html",
             "date": " • Oct 29, 2022"
