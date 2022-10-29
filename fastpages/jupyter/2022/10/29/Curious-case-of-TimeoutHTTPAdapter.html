@@ -308,10 +308,34 @@ it will try to honor that header and wait for the advertised amount.</p>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>In my case, that the server was try to let my crawler <code>Retry-After</code> 600 seconds, and urllib is honor that header by default.</p>
+<p>I fixed my code by adding <code>respect_retry_after_header</code> to the Retry instance.</p>
 
 </div>
 </div>
 </div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">retry_strategy</span> <span class="o">=</span> <span class="n">Retry</span><span class="p">(</span>
+    <span class="n">total</span><span class="o">=</span><span class="n">retry_count</span><span class="p">,</span>
+    <span class="n">raise_on_redirect</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span>
+    <span class="n">status_forcelist</span><span class="o">=</span><span class="p">[</span><span class="mi">429</span><span class="p">,</span> <span class="mi">500</span><span class="p">,</span> <span class="mi">502</span><span class="p">,</span> <span class="mi">503</span><span class="p">,</span> <span class="mi">504</span><span class="p">],</span>
+    <span class="n">respect_retry_after_header</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span>
+    <span class="n">allowed_methods</span><span class="o">=</span><span class="p">[</span><span class="s2">"HEAD"</span><span class="p">,</span> <span class="s2">"GET"</span><span class="p">,</span> <span class="s2">"OPTIONS"</span><span class="p">]</span>
+<span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
 </div>
 
 
