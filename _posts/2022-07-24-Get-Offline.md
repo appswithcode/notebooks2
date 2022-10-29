@@ -41,5 +41,6 @@ Namely, you have a support system to refuel your tank when it runs low.
 
 Mindfulness & Meditational practices are quite effective.
 
-Meditation basically means "not thinking". It probably lets prefrontal cortex take a break.
+Meditation basically means "not thinking".
+It probably lets prefrontal cortex take a break.
 
