@@ -18,7 +18,7 @@ You have limited attention span (which could be adjusted) & energy. Your computa
 - primal instincts
 - ego
 
-Your `default mode` does not go hand in hand with your life goals.
+fYour `default mode` does not go hand in hand with your life goals.
 
 ### Stoicism
 
@@ -35,10 +35,10 @@ spent practicing the cardinal virtues and living in accordance with nature.
 
 Stoicism is a somewhat energy-efficient philosophy of living.
 
-### Get dissolved in your environment
+### Get offline
 
 Probably focusing is the easy part, but the hard part is making sure that you can focus when you want to.
-Namely, you have a support system to refuel your tank when it runs low.
+Namely, you have to nurture a support system which refuels your tank when it runs low.
 
 Mindfulness & Meditational practices are quite effective.
 
