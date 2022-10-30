@@ -18,7 +18,7 @@ You have limited attention span (which could be adjusted) & energy. Your computa
 - primal instincts
 - ego
 
-fYour `default mode` does not go hand in hand with your life goals.
+Your brain's  `default mode` does not go hand in hand with your life goals.
 
 ### Stoicism
 
@@ -40,7 +40,7 @@ Stoicism is a somewhat energy-efficient philosophy of living.
 Probably focusing is the easy part, but the hard part is making sure that you can focus when you want to.
 Namely, you have to nurture a support system which refuels your tank when it runs low.
 
-Mindfulness & Meditational practices are quite effective.
+Mindfulness, meditational and martial art practices are quite effective.
 
 Meditation basically means "not thinking".
 It probably lets prefrontal cortex take a break.
